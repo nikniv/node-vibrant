@@ -1,3 +1,4 @@
+Copyright (c) 2019 nikniv
 Copyright (c) 2015 Jari Zwarts
 Copyright (c) 2015 AKFish
 
